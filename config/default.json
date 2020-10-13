@@ -1,0 +1,6 @@
+{
+  "port": 8080,
+  "mongoURI": "mongodb+srv://user:1234qwer@cluster0.fxyrb.mongodb.net/tourism?retryWrites=true&w=majority",
+  "jwtSecret": "rottenChicken",
+  "sendgrid": "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"
+}
